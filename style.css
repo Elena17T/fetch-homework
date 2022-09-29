@@ -1,0 +1,51 @@
+body{
+    font-family: Caveat;
+    font-size: 40px;
+}
+
+label {
+    font-size: 36px medium; 
+}
+
+fieldset {
+    border-radius: 12px;
+    border: 1px solid black;
+    height: 200px;
+    width: 700px;
+}
+.favourite{
+    font-family: Caveat;
+    font-size: 40px;  
+}
+.favouriteOption {
+    font-family: Caveat;
+    font-size: 30px;  
+    width: 30%;
+    height: 40px;
+    text-align: center;
+    border: 3px solid black;
+}
+input {
+    border: 1px solid black;
+    width: 30%;
+    height: 40px;
+}
+.number {
+    font-family: Caveat;
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid black;
+} 
+.catName {
+    font-family: Caveat;
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid black;
+}
+.sub, .res {
+width: 60px;
+height: 30px;
+text-align: center;
+border-radius: 10px;
+border: 3px solid black;
+}
